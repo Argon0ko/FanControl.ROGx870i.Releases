@@ -1,4 +1,4 @@
-# Fan Control
+# Fan Control for Asus ROG Strix x870-i 
 
 
 <p align=center>
@@ -8,7 +8,7 @@
 </p>
 
 
-<p align=center>This is the release repository for <a href="https://getFanControl.com">Fan Control</a>, a focused and highly customizable fan controlling software for Windows.<br><i>Sources for this software are closed.</i></span>
+<p align=center>This is the release repository for <a href="https://getFanControl.com">Fan Control</a>, a focused and highly customizable fan controlling software for Windows with added support for Asus Rog Strix x870-i motherboard.<br><i>Sources for this software are closed. </i></span>
 
 <br>
 <br>
